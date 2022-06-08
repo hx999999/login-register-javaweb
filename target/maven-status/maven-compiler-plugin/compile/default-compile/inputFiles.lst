@@ -11,6 +11,7 @@ D:\IDEALprojects\brand-demo\src\main\java\com\itheima\util\SqlSessionFactoryUtil
 D:\IDEALprojects\brand-demo\src\main\java\com\itheima\util\CheckCodeUtil.java
 D:\IDEALprojects\brand-demo\src\main\java\com\itheima\web\checkCodeServlet.java
 D:\IDEALprojects\brand-demo\src\main\java\com\itheima\web\AddServlet.java
+D:\IDEALprojects\brand-demo\src\main\java\com\itheima\web\filter\loginFilter.java
 D:\IDEALprojects\brand-demo\src\main\java\com\itheima\service\UserService.java
 D:\IDEALprojects\brand-demo\src\main\java\com\itheima\mapper\BrandMapper.java
 D:\IDEALprojects\brand-demo\src\main\java\com\itheima\web\loginServlet.java
